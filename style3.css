@@ -1,6 +1,6 @@
-.cls
+.cls2
 {
-    background-color: rgb(255, 242, 170);
+    background-color: rgb(0, 0, 0);
     box-shadow: 2px 2px 5px #5e5e5e;
     cursor: pointer;
     padding: 60px 60px;
@@ -8,9 +8,9 @@
     border-radius: 10px  100px 100px 10px;
 }
 
-.cls:hover
+.cls2:hover
 {
-    background-color: rgb(255, 242, 170);
+    background-color: rgb(0, 0, 0);
     box-shadow: 5px 5px 5px #5e5e5e;
     padding: 60px 200px;
 }
@@ -20,8 +20,8 @@
     box-shadow: 0 0 0 3px rgb(38, 0, 255);
 } */
 
-.cls:active
+.cls2:active
 {
-    background-color: rgb(255, 242, 170);
+    background-color: rgb(255, 255, 255);
     padding: 60px 300px;
 }

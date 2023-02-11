@@ -2,10 +2,8 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>Finger</title>
+    <title>Document</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="style4.css" rel="stylesheet" type="text/css" />
-    <script src="script.js"> </script>
 </head>
 <body>
     <button class = "cls">엄지</button>
@@ -16,9 +14,9 @@
     <br>
     <button class = "cls">약지</button>
     <br>
-    <button class = "cls" >소지</button>
+    <button class = "cls">소지</button>
     <br>
-    <button class = "cls3" onclick="location.href='index1.html'"></button>
+    <button class = "cls">HA.HA.HA.</button>
 
 </body>
 </html>
